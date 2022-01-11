@@ -1,8 +1,29 @@
 body {
-background-color: cadetblue;
+background-color: #26b3b8;
 text-align: center;
 }
 
 h1{
     text-transform: uppercase;
+    text-align: center;
+    font-size: 70pt;
 }
+
+.container{
+    width: 100%;
+    margin: 0auto;
+}
+
+aside ul{
+    list-style-type: circle;
+    font-size: 30pt;
+}
+
+img{
+   float: left;
+}
+
+.image2{
+    float: right;
+}
+
