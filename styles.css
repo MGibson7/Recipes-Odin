@@ -18,17 +18,16 @@ h1{
 aside ul{
     list-style-type: circle;
     font-size: 30pt;
+    float: left;
 }
 
 img{
    float: left;
    margin-right: 10px;
    padding: 10px;
+   height: auto;
+   width: 500px;
 }
 
-.image2{
-    float: right;
-    margin-left: 10px;
-    padding: 10px;
-}
+
 
