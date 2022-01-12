@@ -17,14 +17,23 @@ h1{
 
 aside ul{
     list-style-type: circle;
-    font-size: 30pt;
+    font-size: 25pt;
     float: left;
+}
+ul{
+    text-align: center;
+}
+
+ol{
+    text-align: left;
 }
 
 img{
    float: left;
-   margin-right: 10px;
-   padding: 10px;
+   margin-right: 25px;
+   margin-bottom: 25px;
+   padding: 10px 10px 10px 10px;
+   border: 10px solid green;
    height: auto;
    width: 500px;
 }
