@@ -10,7 +10,7 @@ h1{
 }
 
 .container{
-    width: 100%;
+    width: 80%;
     margin: 0auto;
 }
 
@@ -21,9 +21,11 @@ aside ul{
 
 img{
    float: left;
+   margin-right: 10px;
 }
 
 .image2{
     float: right;
+    margin-left: 10px;
 }
 
