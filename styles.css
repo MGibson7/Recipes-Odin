@@ -22,10 +22,12 @@ aside ul{
 img{
    float: left;
    margin-right: 10px;
+   padding: 10px;
 }
 
 .image2{
     float: right;
     margin-left: 10px;
+    padding: 10px;
 }
 
