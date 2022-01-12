@@ -12,6 +12,7 @@ h1{
 .container{
     width: 80%;
     margin: 0auto;
+    max-width: 1000px;
 }
 
 aside ul{
